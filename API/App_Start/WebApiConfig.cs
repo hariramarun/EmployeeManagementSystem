@@ -19,6 +19,11 @@ namespace API
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+
+            config.Routes.MapHttpRoute(
+                name: "EmployeeApi",
+                routeTemplate: "{controller}/{employeeId}",
+                defaults: new { employeeId = RouteParameter.Optional });
         }
     }
 }

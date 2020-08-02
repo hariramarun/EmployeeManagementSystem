@@ -60,3 +60,9 @@ C:\Users\Vijayabharathi\source\repos\EmployeeManagement\API\bin\Microsoft.CodeDo
 C:\Users\Vijayabharathi\source\repos\EmployeeManagement\API\obj\Debug\API.csproj.CopyComplete
 C:\Users\Vijayabharathi\source\repos\EmployeeManagement\API\obj\Debug\API.dll
 C:\Users\Vijayabharathi\source\repos\EmployeeManagement\API\obj\Debug\API.pdb
+C:\Users\Vijayabharathi\source\repos\EmployeeManagement\API\bin\EntityFramework.dll
+C:\Users\Vijayabharathi\source\repos\EmployeeManagement\API\bin\EntityFramework.SqlServer.dll
+C:\Users\Vijayabharathi\source\repos\EmployeeManagement\API\bin\EntityFramework.xml
+C:\Users\Vijayabharathi\source\repos\EmployeeManagement\API\bin\EntityFramework.SqlServer.xml
+C:\Users\Vijayabharathi\source\repos\EmployeeManagement\API\obj\Debug\API.Migrations.employeeManagement.resources
+C:\Users\Vijayabharathi\source\repos\EmployeeManagement\API\obj\Debug\API.csproj.GenerateResource.cache
